@@ -1,0 +1,21 @@
+
+
+@media only screen and (max-width: 600px) {
+    .container-md {
+        width: 100px;
+        height:90vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+      }
+    .frame{
+        width:250px;
+        height:320px;
+        display: flex;
+        position:static;
+        box-sizing:content-box;
+    }
+
+  }
