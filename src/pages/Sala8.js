@@ -119,7 +119,7 @@ const Sala8 = () => {
                         <Typography variant="h6" textAlign="center">Y al señor de Mapimí</Typography>
                         <Typography variant="h6" textAlign="center">Sé las deje a mis amigos</Typography>
                         <Typography variant="h6" textAlign="center">Paque se acuerden de mí.</Typography>
-                        <Typography variant="h6" textAlign="end">(autor anonimo...)</Typography>
+                        <Typography variant="h6" textAlign="end">(Autor Anónimo...)</Typography>
 
                         
                     </BannerContent>
