@@ -4,7 +4,7 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import { HeaderContainer, HeaderImage } from "../components/Salas/Header1.js";
 import { Typography, Box } from "@mui/material";
-import { BannerContainer, BannerContent, BannerDescription, BannerImage } from "../components/Salas/Banners";
+import { BannerContainer, BannerContent, BannerDescription } from "../components/Salas/Banners";
 import teatro from "../images/teatro.jpeg";
 import img1s10 from '../images/gallery/sala10/figura1_sala10.jpeg'
 import img2s10 from '../images/gallery/sala10/figura2_sala10.jpeg'
@@ -36,10 +36,6 @@ export default function Sala1() {
                     <BannerContent>
                         <Typography variant="h4">Vida cotidiana.</Typography>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-                        Este hermoso mineral era muy modernos y polifacético desde su gente hasta su desarrollo considerado una ciudad cosmopolita.
-                        Cananea ciudad de gente progresista, ofrecida diversidad, porque en ella había todo lo que esos años solo se veía en una ciudad 
-                        grande, se impartían clases de inglés, francés y música, lo mejor era que tanto mexicanos como extranjeros se interesaban por todo eso 
-                        y convivían en sana paz. 
                         Desde que Mr. Greene arribo a la Cananea, el mineral adquiere su propia zona comercial. Iniciando en la Av. Juárez, antes The Main Street.  
                         El centro histórico aún conserva vestigios de ese pasado que se ve reflejado en su arquitectura, sus calles, su gente y su forma de vivir.</BannerDescription>
                     </BannerContent>

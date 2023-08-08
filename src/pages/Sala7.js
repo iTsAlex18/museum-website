@@ -28,7 +28,7 @@ export default function Sala7() {
                     <HeaderImage src={patio} />
                 </HeaderContainer>
                 <br />
-                <h2 style={{ textAlign: 'center', marginTop: '15px' }}>El legendario patio de la Cárcel y Presos de La Antigua Cárcel de Cananea.</h2>
+                <h2 style={{ textAlign: 'center', marginTop: '15px' }}>El Legendario Patio de la Cárcel y Presos de La Antigua Cárcel de Cananea.</h2>
 
 
                 <BannerContainer style={{ marginTop: '15px', borderRadius: '15px' }}>
@@ -36,7 +36,7 @@ export default function Sala7() {
                     <BannerContent>
                         <Typography variant="h4">PÁGINA 113.</Typography>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-                            CATALINA GUILLEN, hija de Ignacio Guillen y Lázaro López, natural de Tepic,
+                            CATALINA GUILLEN, hija de Ignacio Guillen y Lázara López, natural de Tepic,
                             territorio del mismo nombre de 30 años de edad, soltera de ocupación doméstica.
                             Estatura 1 metro 50 centímetros. Complexión delgada.
                             <BannerDescription variant="h6" style={{ marginTop: '10px' }}>

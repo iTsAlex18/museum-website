@@ -71,7 +71,7 @@ export default function BasicTable() {
                                 >
                                     <TableCell component="th" scope="row">Adultos</TableCell>
                                     <TableCell align="right">$20.00</TableCell>
-                                    <TableCell component="th" scope="row">Niños</TableCell>
+                                    <TableCell component="th">Niños</TableCell>
                                     <TableCell align="right">$10.00</TableCell>
                                 </TableRow>
                         </TableBody>

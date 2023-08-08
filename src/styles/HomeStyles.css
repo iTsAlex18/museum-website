@@ -1,13 +1,13 @@
 .home {
-    height: 90vh;
-    display: flex;
-    justify-content: center;
-    align-items: left;
-    flex-direction: column;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   
   .headerContainer {
     width: auto;
@@ -19,7 +19,6 @@
     align-items: center;
     font-weight: bold;
     font-size: 70px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     color: black;
     -webkit-text-stroke: 1px white;
   }
@@ -27,24 +26,11 @@
   .home .headerContainer h2 {
     margin-top: 15px;
     padding: 0;
-    font-size: 40px;
-    font-weight: lighter;
-    color: white;
-
+    font-size: 70px;
+    color: black;
+    -webkit-text-stroke: 1px white;
   }
   
-  .headerContainer button {
-    background-color: #121619;
-    margin-top: 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    height: 50px;
-    width: 180px;
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-  }
   
   .headerContainer button:hover {
     background-color: #07090a;
@@ -58,6 +44,7 @@
     .home {
       justify-content: center;
       align-items: center;
+      display: flex;
     }
     .headerContainer {
       margin-left: 0;
@@ -67,19 +54,21 @@
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      background-color: #121619;
       color: white;
+      
     }
     .home .headerContainer h1 {
       font-size: 40px;
       height: 30mm;
       margin: 30px 0px;
-      color: white;
+      color: #07090a;
+      -webkit-text-stroke: 1px white;
       text-align: center;
     }
-    .home .headerContainer p {
-      font-size: 30px;
-      color: white;
+    .home .headerContainer h2 {
+      font-size: 40px;
+      color: #07090a;
+      -webkit-text-stroke: 1px white;
     }
     .headerContainer button {
       background-color: white;

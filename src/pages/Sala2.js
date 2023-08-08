@@ -32,12 +32,9 @@ export default function Sala2() {
         <BannerContainer style={{ marginTop: '15px', borderRadius: '15px' }}>
           <BannerImage src={mineros} width={50} />
           <BannerContent>
-            <Typography variant="h4">De los alambres que comunican la corriente a los trenes electricos, a cada instante se escapan estrellas efimeras, pero intensa luz, sus azules y hermosos resplandores.</Typography>
+            <Typography variant="h4">De Los Alambres que Comunican la Corriente a los Trenes Electricos, a Cada Instante se Escapan Estrellas Efimeras, pero Intensa Luz, sus Azules y Hermosos Resplandores.</Typography>
             <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-              El uso de rieles en la minería desde la edad media. La fricción de metales permite trasportar
-              un mayor número de carga sin tanto esfuerzo. El uso de las vias y transporte de carga en la
-              mineria con diferentes tracciones humanas y de sangre. Después las máquinas de vapor y las eléctricas.
-              (Carbon, leña y aceite) La introucción del diesel hizo más eficiente las máquinas de ferrocarril.
+            Después las máquinas de vapor y las eléctricas. (Carbón, leña y aceite) La introducción del diesel hizo más eficiente las máquinas de ferrocarril.
             </BannerDescription>
           </BannerContent>
         </BannerContainer>
@@ -47,13 +44,9 @@ export default function Sala2() {
           <BannerContent>
             <Typography variant="h4">1906.</Typography>
             <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-              Los nacionales percibían tres pesos diarios y los gringos siete, pagados en dólares.
-              Las relaciones laborales eran negativas y discriminatorias, los mineros mexicanos laboraban
-              prolongadas jornadas de trabajo y bajo condiciones insalubres, sufrían abusos en las tiendas
-              de raya, ocupaban la mayoría de los puestos eventuales y recibían malos tratos de mayordomos
-              y capataces, al mismo tiempo que los empleos de confianza y los mejores puestos los ocupaban
-              extranjeros. Tales condiciones, así como la alta concentración obrera y el trabajo político de
-              los cuadros del magonismo, facilitaron la organización de los obreros y empleados.
+            Los nacionales percibían tres pesos diarios y los “gringos” siete, pagados en dólares. Las relaciones laborales eran negativas y discriminatorias, los mineros mexicanos laboraban prolongadas jornadas de trabajo y bajo condiciones insalubres, 
+            sufrían abusos en las tiendas de raya, ocupaban la mayoría de los puestos eventuales y recibían malos tratos de mayordomos y capataces, al mismo tiempo que los empleos de confianza y los mejores puestos los ocupaban Extranjeros. 
+            Tales condiciones, así como la alta concentración obrera y el trabajo político de Los cuadros del magonismo, facilitaron la organización de los obreros y empleados.
             </BannerDescription>
           </BannerContent>
         </BannerContainer>
@@ -61,15 +54,11 @@ export default function Sala2() {
         <BannerContainer style={{ marginTop: '15px', borderRadius: '15px' }}>
           <BannerImage src={mc} width={50} />
           <BannerContent>
-            <Typography variant="h4">La minería de Cananea.</Typography>
+            <Typography variant="h4">La Minería de Cananea.</Typography>
             <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-              La extracción de mineral ha sido de socavón y de mineral atajo abierto, o combinada, dependiendo
-              de la tecnología y de la ley del mineral, de la misma manera que la fundición. La compañía minera
-              de Cananea contaba, además de las minas y la fundición para el beneficio, con con dos plantas concentradoras,
-              planta de fuerza motriz y talleres de mantenimiento. Las concentradoras eran instalaciones de grandes
-              dimensiones donde se va reduciendo la piedra mineral y por ultimo el beneficio, dependiendo de
-              las características del mineral y de las técnicas de beneficio, en el caso de Cananea se uso la
-              fundición.
+            La extracción de mineral ha sido de socavón y de mineral atajo abierto, o combinada, dependiendo de la tecnología y de la ley del mineral, 
+            de la misma manera que la fundición. La compañía minera de Cananea contaba, además de las minas y la fundición para el beneficio, con dos plantas concentradoras, planta de fuerza motriz y talleres de mantenimiento. 
+            Las concentradoras eran instalaciones de grandes dimensiones donde se va reduciendo la piedra mineral y por último el beneficio, dependiendo de las características del mineral y de las técnicas de beneficio, en el caso de Cananea se usó la fundición.
             </BannerDescription>
           </BannerContent>
         </BannerContainer>
@@ -79,14 +68,9 @@ export default function Sala2() {
           <BannerContent>
             <Typography variant="h4">Ferrocarril.</Typography>
             <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-              Un elemento de la Revolución Industrial, que llegó tardíamente a Cananea, pero que representa
-              al final de cuentas una de las innovaciones tecnológicas más importante para la minería de Cananea
-              fue: el ferrocarril.
-              El cual, tendrá diferentes tipos dependiendo de la función asignada en la compañía. Los rieles,
-              que salían de las minas y que servían para transportar el mineral hasta la Concentradora, serán
-              complementados por trenes de vía angosta, algunos de los cuales eran eléctricos, que recorrían
-              el interior de la población entre las diferentes instalaciones de la compañía fueran las minas,
-              las concentradoras y la fundación.
+            Un elemento de la Revolución Industrial, que llegó tardíamente a Cananea, pero que representa al final de cuentas una de las innovaciones tecnológicas más importante para la minería de Cananea, Fue: 
+            el ferrocarril. El cual, tendrá diferentes tipos dependiendo de la función asignada en la compañía. Los rieles, que salían de las minas y que servían para transportar el mineral hasta la Concentradora, 
+            serán complementados por trenes de vía angosta, algunos de los cuales eran eléctricos, que recorrían el interior de la población entre las diferentes instalaciones de la compañía fueran las minas, las concentradoras y la fundación.
             </BannerDescription>
           </BannerContent>
         </BannerContainer>
@@ -94,13 +78,10 @@ export default function Sala2() {
         <BannerContainer style={{ marginTop: '15px', borderRadius: '15px' }}>
           <BannerImage src={parti} width={50} />
           <BannerContent>
-            <Typography variant="h4">La participacion.</Typography>
+            <Typography variant="h4">La Participacion.</Typography>
             <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-              La electricidad fue una de las actividades que significo un avance tecnologico dentro de
-              la poblacion y en la mineria, y que atento el surguimiento de esta poblacion.
-              El tener el servicio eléctrico para el resto de la población permitió que las casas,
-              tuvieran de parte de la compañia el servicio de gas y luz, que hacian más accesibles la vida
-              en la población.
+            La electricidad fue una de las actividades que significo un avance tecnológico dentro de la población y en la minería, y que atento el surgimiento de esta población. 
+            El tener el servicio eléctrico para el resto de la población permitió que las casas, tuvieran de parte de la compañía el servicio de gas y luz, que hacían más accesibles la vida en la población.
             </BannerDescription>
           </BannerContent>
         </BannerContainer>

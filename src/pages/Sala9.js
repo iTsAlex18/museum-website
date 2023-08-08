@@ -29,23 +29,18 @@ export default function Sala9() {
                 </HeaderContainer>
                 <br />
 
-                <h2 style={{ textAlign: 'center', marginTop: '15px' }}>Hospital el Ronquillo</h2>
+                <h2 style={{ textAlign: 'center', marginTop: '15px' }}>Hospital del Ronquillo</h2>
 
                 <BannerContainer style={{ marginTop: '15px', borderRadius: '15px' }}>
                     <BannerImage src={hos} width={50} />
                     <BannerContent>
-                        <Typography variant="h4">Hospital el ronquillo.</Typography>
+                        <Typography variant="h4">Hospital del ronquillo.</Typography>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-                            El hospital del Ronquillo se construyó con el particular ladrillo rojo, horneado en
-                            esta ciudad, aun cuando la disciplina y la tranquilidad imperaba en el nosocomio, sus
-                            pisos de fuerte y fina madera, aún narran la historia de sus pacientes, todavía parecen
-                            escucharse los lamentos de los ingresados.
-                            Esto nos lleva a recordar cuando se atendía a hombres que habían sido víctimas de diferentes
-                            accidentes en las minas subterráneas que en su materia desaparecieron en los años 40's, siendo
-                            la última mina en desaparecer “La Colorada” en 1965.
-                            Los accidentes más comunes eran los derrumbes y caídas a los chutes, sin dejar de mencionar atropellamiento
-                            ocasionado por los vagones al ser jalados por los obreros y a su vez el trabajador que venía detrás golpeaba
-                            al que iba enfrente, así que las lesiones más frecuentes eran fracturas de pierna, pies y de cintura.
+                        El “hospital del Ronquillo” se construyó con el particular ladrillo rojo, horneado en esta ciudad, aun cuando la disciplina y la tranquilidad imperaba en el nosocomio, 
+                        sus pisos de fuerte y fina madera, aún narran la historia de sus pacientes, todavía parecen escucharse los lamentos de los ingresados. Esto nos lleva a recordar cuando se atendía a hombres que 
+                        habían sido víctimas de diferentes accidentes en las minas subterráneas que en su materia desaparecieron en los años 40, siendo la última mina en desaparecer “La Colorada” en 1965. 
+                        Los accidentes más comunes eran los derrumbes y caídas a los chutes, sin dejar de mencionar atropellamiento ocasionado por los vagones al ser jalados por los obreros y a su vez el trabajador que venía detrás golpeaba al que iba enfrente, 
+                        así que las lesiones más frecuentes eran fracturas de pierna, pies y de cintura.
                         </BannerDescription>
                     </BannerContent>
                 </BannerContainer>

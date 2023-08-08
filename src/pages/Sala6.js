@@ -26,7 +26,7 @@ export default function Sala6() {
 
                 <BannerContainer style={{ marginTop: '15px', borderRadius: '15px' }}>
                     <BannerContent>
-                        <Typography variant="h4">Porfiriato y tecnología en Cananea.</Typography>
+                        <Typography variant="h4">Porfiriato y Tecnología en Cananea.</Typography>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
                         En 1897 México se encontraba bajo el régimen de Porfirio Díaz, una época de 
                         estabilidad política y económica, al mismo tiempo empezaba un avance importante 
@@ -50,15 +50,10 @@ export default function Sala6() {
                     <BannerImage src={tecno1} width={50} />
                     <BannerContent>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-                        De lo anterior se desprende la siguiente información, que para 1906, antes de 
-                        la huelga en la mina llegaron a trabajar 7,560 empleados: 5,360 mexicanos y 2,200 
-                        extranjeros. Así, el 71% de la fuerza laboral eran mexicanos, aunque llama la atención 
-                        el alto 29% de extranjeros, que es el más alto en la década. lo que suma una población 
-                        mayor a las 10,000 habitantes. De éstos, 3,800 fueron trabajadores regulares a lo largo 
-                        del periodo, que no faltaron a sus labores. de los cuales 2,300 eran mexicanos y 1,500 
-                        extranjeros.Esto refleja un reducción de la proporción de mexicanos, el 61%, y un incremento 
-                        de la de extranjeros, el 39%. Casi el 40% de la fuerza laboral de la compañia eran extranjeros, 
-                        proporción altisima que no volvera a tener la compañia minera en su historia. 
+                        De lo anterior se desprende la siguiente información, que para 1906, antes de la huelga en la mina, llegaron a trabajar 7,560 empleados: 5,360 mexicanos y 2,200 extranjeros. 
+                        Así, el 71% de la fuerza laboral eran mexicanos, aunque llama la atención el alto 29% de extranjeros, que es el más alto en la década. Lo que suma una población mayor a las 10,000 habitantes. 
+                        De estos, 3,800 fueron trabajadores regulares a lo largo del periodo, que no faltaron a sus labores. De los cuales, 2,300 eran mexicanos y 1,500 extranjeros. 
+                        Esto refleja una reducción de la proporción de mexicanos, el 61%, y un incremento de la de extranjeros, el 39%. Casi el 40% de la fuerza laboral de la compañía eran extranjeros, proporción altísima que no volverá a tener la compañía minera en su historia. 
                         </BannerDescription>
                     </BannerContent>
                 </BannerContainer>
@@ -68,13 +63,8 @@ export default function Sala6() {
                     <BannerContent>
                         <Typography variant="h4">Tecnología.</Typography>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-                        El telégrafo eléctrico (Samuel Morse, 1833) puedeconsiderarse como la primera 
-                        aplicación en el campo de las telecomunicaciones, pero la comprensión de lo que 
-                        es la electricidad se logró hasta los años 1861-1865, con las ecuaciones del fenómeno 
-                        electromagnético descrito por Maxwell(1861-1865).Por lo tanto, no fue la primera revolución 
-                        industrial la que la incorpora a la produccion, sino es hasta el cuarto final del sigo XIX cuando 
-                        se dan las aplicaciones en la economia de la electricidad que la convierten en una de las fuerzas 
-                        motrices de la segunda revolucion industrial.
+                        El telégrafo eléctrico (Samuel Morse, 1833) puede considerarse como la primera aplicación en el campo de las telecomunicaciones, pero la comprensión de lo que es la electricidad se logró hasta los años 1861-1865, con las ecuaciones del fenómeno electromagnético descrito por Maxwell(1861-1865).
+                        Por lo tanto, no fue la primera revolución industrial la que la incorpora a la producción, si no es hasta el cuarto final del siglo XIX cuando se dan las aplicaciones en la economía de la electricidad que la convierten en una de las fuerzas motrices de la segunda revolución industrial.
                         </BannerDescription>
                     </BannerContent>
                 </BannerContainer>
@@ -83,11 +73,8 @@ export default function Sala6() {
                     <BannerImage src={tecno3} width={50} />
                     <BannerContent>
                         <BannerDescription variant="h6" style={{ marginTop: '10px' }}>
-                        La electrificación no solo fue un proceso técnico, sino un verdadero cambio social 
-                        de implicaciones extraodinarias, comenzando por el alumbrado y siguiendo por diversos
-                        tipos de procesos industriales (motor, electrico, metalurgia, refrigeración) y de 
-                        comunicacíon (telefonía, radio). En la sociedad de consumo se dio una mayor utilización 
-                        domestica de la electricidad en los electrodomesticos. 
+                        La electrificación no solo fue un proceso técnico, sino un verdadero cambio social de implicaciones extraordinarias, comenzando por el alumbrado y siguiendo por diversos tipos de procesos industriales (motor, eléctrico, metalurgia, refrigeración) 
+                        y de comunicación (telefonía, radio). En la sociedad de consumo se dio una mayor utilización doméstica de la electricidad en los electrodomésticos. 
                         </BannerDescription>
                     </BannerContent>
                 </BannerContainer>

@@ -20,7 +20,7 @@ const Header = () => {
         sx={{ flexGrow: 1, my: 2 }}
       >
         <MuseumIcon/>
-          Museo de la lucha Obrera
+          Museo de la Lucha Obrera
       </Typography>
       <Divider />
       <ul className="mobile-navigation">
@@ -65,7 +65,7 @@ const Header = () => {
               sx={{ flexGrow: 1 }}
             >
               <MuseumIcon/>
-              Museo de la lucha Obrera
+              Museo de la Lucha Obrera
             </Typography>
             <Box sx={{ display: { xs: "none", sm: "block" } }}>
               <ul className="navigation-menu">
