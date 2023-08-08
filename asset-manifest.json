@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/museum-website/static/css/main.d3b3f735.css",
-    "main.js": "/museum-website/static/js/main.ce2ac6d1.js",
+    "main.js": "/museum-website/static/js/main.07801408.js",
     "static/js/787.c9edf160.chunk.js": "/museum-website/static/js/787.c9edf160.chunk.js",
     "static/media/bosque.jpeg": "/museum-website/static/media/bosque.d888f4913b8f2541c3ca.jpeg",
     "static/media/figura2_sala2.jpeg": "/museum-website/static/media/figura2_sala2.6d3588cb61c1677c2428.jpeg",
@@ -110,11 +110,11 @@
     "static/media/corrido.jpg": "/museum-website/static/media/corrido.dcdca2f0dfcef8e34f80.jpg",
     "index.html": "/museum-website/index.html",
     "main.d3b3f735.css.map": "/museum-website/static/css/main.d3b3f735.css.map",
-    "main.ce2ac6d1.js.map": "/museum-website/static/js/main.ce2ac6d1.js.map",
+    "main.07801408.js.map": "/museum-website/static/js/main.07801408.js.map",
     "787.c9edf160.chunk.js.map": "/museum-website/static/js/787.c9edf160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3b3f735.css",
-    "static/js/main.ce2ac6d1.js"
+    "static/js/main.07801408.js"
   ]
 }
