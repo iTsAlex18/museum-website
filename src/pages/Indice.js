@@ -180,7 +180,7 @@ const Indice = () => {
             />
             <CardContent>
               <Typography variant="h5" gutterBottom component={"div"}>
-                Hospital el Ronquillo
+                Hospital del Ronquillo
               </Typography>
             </CardContent>
           </CardActionArea>
