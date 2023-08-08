@@ -123,7 +123,7 @@ const Indice = () => {
             />
             <CardContent>
               <Typography variant="h5" gutterBottom component={"div"}>
-                Porfiriato y tecnología en Cananea
+                Porfiriato y Tecnología en Cananea
               </Typography>
             </CardContent>
           </CardActionArea>
@@ -142,7 +142,7 @@ const Indice = () => {
             />
             <CardContent>
               <Typography variant="h5" gutterBottom component={"div"}>
-                El legendario patio de la Cárcel de Cananea
+                El Legendario Patio de la Cárcel de Cananea
               </Typography>
             </CardContent>
           </CardActionArea>
@@ -161,7 +161,7 @@ const Indice = () => {
             />
             <CardContent>
               <Typography variant="h5" gutterBottom component={"div"}>
-                La antigua Cárcel de Cananea
+                La Antigua Cárcel de Cananea
               </Typography>
             </CardContent>
           </CardActionArea>
