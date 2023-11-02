@@ -24,7 +24,7 @@ export const Colors = {
     ////////////////
     white: "#fff",
     black: "#000",
-    orange: "#ff9800",
+    brown: "#D9965B",
     blue: "#2196f3",
 };
 

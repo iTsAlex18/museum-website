@@ -1,13 +1,11 @@
 import React from 'react'
 import Layout from '../components/Layout/Layout'
-import Divider from '@mui/material/Divider';
 import { HeaderContainer, HeaderImage } from "../components/Salas/Header1.js";
 import { Typography } from "@mui/material";
 import { BannerContainer, BannerContent, BannerDescription, BannerImage } from "../components/Salas/Banners";
 import museo from "../images/museo.jpeg";
 import museo1 from "../images/museo.jpg";
 import Carcel from "../images/Carcel.jpg";
-import corrido from "../images/corrido.jpg";
 
 const Sala8 = () => {
     return (

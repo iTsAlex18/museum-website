@@ -7,7 +7,7 @@ export const AddressContainer = styled(Box)(({theme}) => ({
     width: '100%',
     height: '100%',
     padding: '0px 0px',
-    backgroundColor: "#b2102f",
+    backgroundColor: "#735645",
     [theme.breakpoints.down('sm')]: {
         flexDirection: 'column',
         alignItems: 'center'
