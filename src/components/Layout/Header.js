@@ -67,7 +67,6 @@ const Header = () => {
               variant="h4"
               component="div"
               sx={{ flexGrow: 1 }}
-              textAlign={"center"}
               fontFamily={"Roboto Serif"}
             >
               Museo de la Lucha Obrera
