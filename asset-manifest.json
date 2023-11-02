@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/museum-website/static/css/main.d3b3f735.css",
-    "main.js": "/museum-website/static/js/main.cea3e750.js",
+    "main.js": "/museum-website/static/js/main.a3ab57ce.js",
     "static/js/787.c9edf160.chunk.js": "/museum-website/static/js/787.c9edf160.chunk.js",
     "static/media/bosque.jpeg": "/museum-website/static/media/bosque.d888f4913b8f2541c3ca.jpeg",
     "static/media/figura2_sala2.jpeg": "/museum-website/static/media/figura2_sala2.6d3588cb61c1677c2428.jpeg",
@@ -42,6 +42,7 @@
     "static/media/museo.jpeg": "/museum-website/static/media/museo.819a0e77c202f4fbdf95.jpeg",
     "static/media/figura1_sala4.jpeg": "/museum-website/static/media/figura1_sala4.d11154793b5e1d05a8a7.jpeg",
     "static/media/figura10_sala10.jpeg": "/museum-website/static/media/figura10_sala10.bd1123f23c8f67572b6b.jpeg",
+    "static/media/LOGO Secretarias VA-01.png": "/museum-website/static/media/LOGO Secretarias VA-01.66f64a4fdc281634bfd5.png",
     "static/media/figura4_sala9.jpeg": "/museum-website/static/media/figura4_sala9.603cc78aef00f331e107.jpeg",
     "static/media/mina.jpeg": "/museum-website/static/media/mina.cc5f94dbd68d99bc0ba0.jpeg",
     "static/media/figura4_sala2.jpeg": "/museum-website/static/media/figura4_sala2.711f3a88f3a8c9985b0f.jpeg",
@@ -100,21 +101,22 @@
     "static/media/min2.jpeg": "/museum-website/static/media/min2.cced5a85f93f6e1f92c3.jpeg",
     "static/media/Bavispe.jpeg": "/museum-website/static/media/Bavispe.45e2b946119890d83bbc.jpeg",
     "static/media/figura2_sala3.jpeg": "/museum-website/static/media/figura2_sala3.08ec93730611339b495d.jpeg",
+    "static/media/LogotGobiernoSonora_C.png": "/museum-website/static/media/LogotGobiernoSonora_C.4c03d8a926a3dedd2512.png",
     "static/media/mc.jpeg": "/museum-website/static/media/mc.f3e2060acb9b7c76e62c.jpeg",
     "static/media/porf3.jpeg": "/museum-website/static/media/porf3.7247a9c87338c66f9528.jpeg",
     "static/media/figura11_sala9.jpeg": "/museum-website/static/media/figura11_sala9.e7964d778ba739f51f34.jpeg",
+    "static/media/EscudoSonoraGobierno-05.png": "/museum-website/static/media/EscudoSonoraGobierno-05.44f5b47b72c42760a136.png",
     "static/media/pres2.jpeg": "/museum-website/static/media/pres2.85e4d4457c74cba5af8c.jpeg",
     "static/media/figura2_sala6.jpeg": "/museum-website/static/media/figura2_sala6.922ca6ee4e637fb709b4.jpeg",
     "static/media/tecno2.jpeg": "/museum-website/static/media/tecno2.0d83776293d98bf0ff4b.jpeg",
     "static/media/figura5_sala6.jpg": "/museum-website/static/media/figura5_sala6.70ffd577b6c381ebc64c.jpg",
-    "static/media/corrido.jpg": "/museum-website/static/media/corrido.dcdca2f0dfcef8e34f80.jpg",
     "index.html": "/museum-website/index.html",
     "main.d3b3f735.css.map": "/museum-website/static/css/main.d3b3f735.css.map",
-    "main.cea3e750.js.map": "/museum-website/static/js/main.cea3e750.js.map",
+    "main.a3ab57ce.js.map": "/museum-website/static/js/main.a3ab57ce.js.map",
     "787.c9edf160.chunk.js.map": "/museum-website/static/js/787.c9edf160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3b3f735.css",
-    "static/js/main.cea3e750.js"
+    "static/js/main.a3ab57ce.js"
   ]
 }
