@@ -21,7 +21,7 @@ function App() {
     <div>
       <BrowserRouter>
       <Routes>
-        <Route path="/museum-website" element={<About />} />
+        <Route path="/" element={<About />} />
         <Route path="/horario" element={<Horario />} />
         <Route path="/indice" element={<Indice />} />
         <Route path="/primeroshabitantes" element={<Sala1 />} />
