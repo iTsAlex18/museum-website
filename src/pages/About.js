@@ -38,6 +38,7 @@ export default function MasonryImageList() {
             },
           }}
         >
+          <br/>
           <Typography variant="h4">Inicios del Museo de la Lucha Obrera</Typography>
           <p>
           El Museo de la Lucha Obrera (antigua Cárcel de Cananea), se encuentra ubicado en Cananea, Sonora, México. 
