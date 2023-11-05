@@ -13,7 +13,6 @@ import Sala7 from "./pages/Sala7";
 import Sala8 from "./pages/Sala8";
 import Sala9 from "./pages/Sala9";
 import Sala10 from "./pages/Sala10";
-import Pagenotfound from './pages/Pagenotfound'
 
 
 function App() {
@@ -21,7 +20,7 @@ function App() {
     <div>
       <BrowserRouter>
       <Routes>
-        <Route path="/" element={<About />} />
+        <Route path="*" element={<About />} />
         <Route path="/horario" element={<Horario />} />
         <Route path="/indice" element={<Indice />} />
         <Route path="/primeroshabitantes" element={<Sala1 />} />
@@ -34,7 +33,6 @@ function App() {
         <Route path="/carcelcananea" element={<Sala8 />} />
         <Route path="/hospitaldelronquillo" element={<Sala9 />} />
         <Route path="/teatroestudio(XEFQ)" element={<Sala10 />} />
-        <Route path="*" element={<Pagenotfound/>} />
       </Routes>
       </BrowserRouter>
     </div>
