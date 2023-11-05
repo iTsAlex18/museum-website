@@ -17,6 +17,7 @@ const Indice = () => {
   return (
     <Layout>
       <br/>
+      <br/>
       <Box sx={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}>
         <Card sx={{ maxWidth: "390px", display: "flex", m: 2 }}>
         <Button>
