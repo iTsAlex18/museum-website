@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/museum-website/static/css/main.893a50e2.css",
-    "main.js": "/museum-website/static/js/main.5cc6af03.js",
+    "main.js": "/museum-website/static/js/main.933277c0.js",
     "static/js/787.c9edf160.chunk.js": "/museum-website/static/js/787.c9edf160.chunk.js",
     "static/media/bosque.jpeg": "/museum-website/static/media/bosque.d888f4913b8f2541c3ca.jpeg",
     "static/media/figura2_sala2.jpeg": "/museum-website/static/media/figura2_sala2.6d3588cb61c1677c2428.jpeg",
@@ -9,7 +9,6 @@
     "static/media/patio.jpeg": "/museum-website/static/media/patio.0748c13daaed18d7f5be.jpeg",
     "static/media/mov.jpeg": "/museum-website/static/media/mov.9ebbd79ccaedf0529b7a.jpeg",
     "static/media/figura4_sala7.jpeg": "/museum-website/static/media/figura4_sala7.95c20d6f6cfe3d936463.jpeg",
-    "static/media/Cananea4.jpeg": "/museum-website/static/media/Cananea4.96afe2660295c9f85367.jpeg",
     "static/media/escalones.jpeg": "/museum-website/static/media/escalones.76ac3697beb5e36cee88.jpeg",
     "static/media/figura7_sala9.jpeg": "/museum-website/static/media/figura7_sala9.bf3f5125c4da6b4c7bb5.jpeg",
     "static/media/figura1_sala1.jpeg": "/museum-website/static/media/figura1_sala1.b90bd20dcbbd280cbf4e.jpeg",
@@ -112,11 +111,11 @@
     "static/media/figura5_sala6.jpg": "/museum-website/static/media/figura5_sala6.70ffd577b6c381ebc64c.jpg",
     "index.html": "/museum-website/index.html",
     "main.893a50e2.css.map": "/museum-website/static/css/main.893a50e2.css.map",
-    "main.5cc6af03.js.map": "/museum-website/static/js/main.5cc6af03.js.map",
+    "main.933277c0.js.map": "/museum-website/static/js/main.933277c0.js.map",
     "787.c9edf160.chunk.js.map": "/museum-website/static/js/787.c9edf160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.893a50e2.css",
-    "static/js/main.5cc6af03.js"
+    "static/js/main.933277c0.js"
   ]
 }
