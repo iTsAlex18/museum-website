@@ -58,7 +58,7 @@ const Header = () => {
             >
               <MenuIcon />
             </IconButton>
-            <NavLink activeClassName="active" to={"/"} style={{color:"white", fontSize:"20px"}}>
+            <NavLink activeClassName="active" to={"/museum-website"} style={{color:"white", fontSize:"20px"}}>
             <img src={Logo} alt="logo" height={"110"} width="200"/>
             </NavLink>
             <Typography
