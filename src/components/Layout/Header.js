@@ -28,7 +28,7 @@ const Header = () => {
       <ul className="mobile-navigation">
         <li>
           <NavLink activeClassName="active" to={"/"}>
-            Home
+            Inicio
           </NavLink>
         </li>
         <li>
@@ -36,9 +36,6 @@ const Header = () => {
         </li>
         <li>
           <NavLink to={"/indice"}>Índice </NavLink>
-        </li>
-        <li>
-          <NavLink to={"/historia"}>Historia </NavLink>
         </li>
       </ul>
       <img src={Logo2} alt="logo" height={"250"} />
@@ -61,12 +58,15 @@ const Header = () => {
             >
               <MenuIcon />
             </IconButton>
+            <NavLink activeClassName="active" to={"/"} style={{color:"white", fontSize:"20px"}}>
             <img src={Logo} alt="logo" height={"110"} width="200"/>
+            </NavLink>
             <Typography
               color={"white"}
               variant="h4"
               component="div"
               sx={{ flexGrow: 1 }}
+              textAlign={"center"}
               fontFamily={"Roboto Serif"}
             >
               Museo de la Lucha Obrera
@@ -75,7 +75,7 @@ const Header = () => {
               <ul className="navigation-menu">
                 <li>
                   <NavLink activeClassName="active" to={"/"} style={{color:"white", fontSize:"20px"}}>
-                    Home
+                    Inicio
                   </NavLink>
                 </li>
                 <li>
@@ -83,9 +83,6 @@ const Header = () => {
                 </li>
                 <li>
                   <NavLink to={"/indice"} style={{color:"white", fontSize:"20px"}}>Índice </NavLink>
-                </li>
-                <li>
-                  <NavLink to={"/historia"} style={{color:"white", fontSize:"20px"}}>Historia y Galería</NavLink>
                 </li>
               </ul>
             </Box>

@@ -1,6 +1,5 @@
 // import Layout from "./components/Layout/Layout";
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import Home from './pages/Home'
 import About from './pages/About'
 import Horario from "./pages/Horario";
 import Indice from "./pages/Indice";
@@ -22,8 +21,7 @@ function App() {
     <div>
       <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/historia" element={<About />} />
+        <Route path="/" element={<About />} />
         <Route path="/horario" element={<Horario />} />
         <Route path="/indice" element={<Indice />} />
         <Route path="/primeroshabitantes" element={<Sala1 />} />
