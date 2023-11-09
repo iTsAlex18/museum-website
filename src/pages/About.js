@@ -40,7 +40,6 @@ export default function MasonryImageList() {
         >
           <br/>
           <br/>
-          <br/>
           <Typography variant="h4">Inicios del Museo de la Lucha Obrera</Typography>
           <br/>
           <p>
